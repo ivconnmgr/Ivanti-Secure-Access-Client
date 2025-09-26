@@ -7,6 +7,9 @@
 
 ## Installation
 
+Download the latest version from Releases page:       
+https://github.com/ivconmgr/Ivanti-Secure-Access-Client/releases/tag/22.8
+
 After downloading the installation package, follow these steps to complete the setup:
 
 * Launch the installer and proceed through the guided prompts to finalize the installation.
